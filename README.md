@@ -4,7 +4,7 @@
 
 This is the java installer to a work-in-progress comprehensive balance overhaul for Age of Empires 3: Definitive Edition.
 
-The included mod manager allows you to install and manage AOE3:DE Overhauled from outside of the game, without the need to restart after enabling the mod.. This application requires Java 8 to be installed to run and works on Linux and Windows (MacOS is not a supported). If you are running this on a linux distro with a unique desktop environment/standalone window manager like BSPWM or Xmonad, you will need to install wmname from your package manager and add "wmname LG3D" to your config file (or run it via the terminal) or else the application will not display anything due to limitations with Java Swing. 
+The included mod manager allows you to install and manage mod folders from outside of the game, without the need to restart after enabling the mod.. This application requires Java 8 to be installed to run and works on Linux and Windows (MacOS is not a supported). If you are running this on a linux distro with a unique desktop environment/standalone window manager like BSPWM or Xmonad, you will need to install wmname from your package manager and add "wmname LG3D" to your config file (or run it via the terminal) or else the application will not display anything due to limitations with Java Swing. 
 
 <b>Installation:</b>
 
