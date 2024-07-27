@@ -1,4 +1,4 @@
-# Age Of Empires 3 DE: Overhauled
+# Age Of Empires 3 DE: Installer
 
 ![Aoe3DEInstaller](https://github.com/user-attachments/assets/aeb63f4d-3b1f-432c-946e-2035ff3e8a75)
 
